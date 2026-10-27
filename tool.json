@@ -1,0 +1,13 @@
+{
+  "id": "w29",
+  "slug": "quiz-lead-game",
+  "name": "行业答题获客",
+  "version": "0.1.0",
+  "repo": "campfire-code/quiz-lead-game",
+  "license": "MIT",
+  "ui": {
+    "layout": "c",
+    "palette": "orange"
+  },
+  "upstream": null
+}

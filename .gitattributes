@@ -1,0 +1,4 @@
+# 云端 Windows 检出时保持换行不变，避免按字节比对示例文件和 H5 产物时出错
+samples/** text eol=lf
+h5-template/dist/** text eol=lf
+h5-template/index.html text eol=lf
